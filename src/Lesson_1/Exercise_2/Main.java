@@ -23,7 +23,7 @@ public class Main {
         // Створюємо ітератор
         Iterator<String> iterator = list.iterator();
 
-        // Виводимо всі елементи списку на екран
+        // Виводимо всі елементи списку на екран.
         while (iterator.hasNext()) {
             System.out.println(iterator.next());
         }
