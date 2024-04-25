@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<country>
+    <region>
+        <city size="big">Kyiv</city>
+        <street>Borispolskaya</street>
+        <house>10</house>
+    </region>
+    <region>
+        <city size="middle">Kremenchuk</city>
+        <street>Bogdan Khmelnitsky</street>
+        <house>18</house>
+    </region>
+    <region>
+        <city size="small">Mirgorod</city>
+        <street>Gogol</street>
+        <house>169</house>
+    </region>
+</country>
